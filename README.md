@@ -1,1 +1,0 @@
-# Self-Aiming-Trash-Bin
