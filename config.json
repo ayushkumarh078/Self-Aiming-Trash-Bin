@@ -1,0 +1,11 @@
+{
+  "target_class": "bottle" ,
+  "confidence_threshold": 0.25,
+  "center_tolerance": 40,
+  "horizontal_tolerance" : 600,
+  "relay_pins": [17, 27, 22, 23],
+  "pulse_duration_ms": 200,
+  "move_delay_ms": 70
+
+ 
+}
